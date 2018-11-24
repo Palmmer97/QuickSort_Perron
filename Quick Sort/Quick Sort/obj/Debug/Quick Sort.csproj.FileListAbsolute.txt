@@ -1,0 +1,9 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Quick Sort\Quick Sort\bin\Debug\Quick Sort.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Quick Sort\Quick Sort\bin\Debug\Quick Sort.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Quick Sort\Quick Sort\bin\Debug\Quick Sort.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Quick Sort\Quick Sort\obj\Debug\Quick Sort.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Quick Sort\Quick Sort\obj\Debug\Quick Sort.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Quick Sort\Quick Sort\obj\Debug\Quick Sort.pdb
+C:\Users\65676\Documents\QuickSort\QuickSort\Quick Sort\Quick Sort\bin\Debug\Quick Sort.exe.config
+C:\Users\65676\Documents\QuickSort\QuickSort\Quick Sort\Quick Sort\obj\Debug\Quick Sort.exe
+C:\Users\65676\Documents\QuickSort\QuickSort\Quick Sort\Quick Sort\obj\Debug\Quick Sort.pdb
